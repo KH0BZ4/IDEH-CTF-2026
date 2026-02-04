@@ -2,7 +2,6 @@
 
 - CTF: IDEH CTF 2026
 - Category: DFIR
-- Author: MrYou
 - Solver: W4ST3D
 - Flag: `IDEH{C00rd1n4t3_C1ph3r_Tr4ck1ng}`
 

@@ -2,7 +2,6 @@
 
 - CTF: IDEH CTF 2026
 - Category: DFIR
-- Author: Unknown
 - Solver: W4ST3D
 - Flag: `IDEH{4ud10_St3g4n0gr4phy}`
 

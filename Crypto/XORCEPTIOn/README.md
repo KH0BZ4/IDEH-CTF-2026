@@ -2,9 +2,8 @@
 
 - CTF: IDEH CTF 2026
 - Category: Crypto
-- Author: Unknown
 - Solver: W4ST3D
-- Flag: `IDEH{X0R_M4G1C_K3Y_R3V34L5}`
+- Flag: `IDEH{Y0u_S33_EncrYpt10n_1s_M4g1c}`
 
 ---
 

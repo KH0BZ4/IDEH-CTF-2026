@@ -2,7 +2,6 @@
 
 - CTF: IDEH CTF 2026
 - Category: Crypto
-- Author: Arashi
 - Solver: W4ST3D
 - Flag: `IDEH{Em0j1_Encrypt10n_1s_N0t_S3cur3}`
 
