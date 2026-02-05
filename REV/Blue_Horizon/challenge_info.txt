@@ -1,0 +1,10 @@
+Challenge: Blue Horizon
+Points: 300
+Solves: 3
+Category: Reverse Engineering
+
+Description:
+- Checkpoint A then checkpoint B
+- Patch it and you get a decoy, reverse it to recover the flag.
+
+Attachment: Horizon (ELF binary)
